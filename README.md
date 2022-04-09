@@ -1,6 +1,6 @@
 ## About The Project
 
-### Distributed Class Management System (DCMS) using Java IDL - Assignment 1
+### Distributed Class Management System (DCMS) using Java IDL - Assignment 2
 
 ### Outline
 In this assignment, you are going to implement the distributed Class Management system (DCMS) from Assignment #1 in CORBA using Java IDL. In addition to the 4 operations introduced in Assignment #1 (namely, createTRecord, createSRecord, getRecordCounts, editRecord) the following operations also need to be implemented.

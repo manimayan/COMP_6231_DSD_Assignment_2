@@ -1,0 +1,6 @@
+TR88881,Laval,Teacher1,10,Lords street,London-987,8888888899,Java|Python,DDO
+TR88882,Laval,Teacher2,11,Lords street,London-987,8888888891,Python,MTL
+TR88883,Laval,Teacher3,12,Lords street,London-987,8888888893,Javascript|Java|Python,MTL
+SR88881,Laval,Student1,ML|Java,Active,2021-12-20
+SR88882,Laval,Student2,ML|AI,InActive,2021-12-21
+SR88883,Laval,Student3,Algos,Active,2021-12-22

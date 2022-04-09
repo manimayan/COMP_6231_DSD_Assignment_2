@@ -1,0 +1,8 @@
+TR77771,Dollard,Teacher1,10,Lords street,London-987,7777777799,Java|Python,DDO
+TR77772,Dollard,Teacher2,11,Lords street,London-987,7777777791,Python,MTL
+TR77773,Dollard,Teacher3,12,Lords street,London-987,7777777793,Javascript|Java|Python,MTL
+SR77771,Dollard,Student1,ML|Java,Active,2021-12-20
+SR77772,Dollard,Student2,ML|AI,InActive,2021-12-21
+SR77773,Dollard,Student3,Algos,Active,2021-12-22
+SR77774,Dollard,Student4,PPS|AI,Active,2021-12-23
+SR77775,Dollard,Student5,TOC,InActive,2021-12-24
